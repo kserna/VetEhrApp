@@ -6,8 +6,8 @@ Solution VetEhrApp contains the following projects:
   PetCollector:
 
     ASP .NET Core project that:
-       - Imports pet data from a properly formatted CSV file that contains no commas in data entries and contains, at minimum, the following columns: name, type, gender (m/f), age.
-       - Creates the file 'PetRepository.txt' and stores the serialized pet data (will replace any existing data if re-uploaded at this time)
+       - Imports pet data from a properly formatted CSV file. CSV file has no commas in data entries and contains, at minimum, the following columns: 'name', 'type', 'gender' (m/f), 'age'. Example CSV included.
+       - Creates the file 'PetRepository.txt' (or replaces it) and stores the serialized pet data (will replace any existing data if re-imported at this time)
 
   PetAnalyzer:
 
