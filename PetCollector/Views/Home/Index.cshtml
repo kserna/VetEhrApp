@@ -1,0 +1,15 @@
+﻿@model List<PetLibrary.Pet>
+@{
+    ViewData["Title"] = "Pets";
+}
+<h2>@ViewData["Title"]</h2>
+
+<h5>Click <strong><a href="@Url.Action("Import")">here</a></strong> to import pets.</h5>
+
+@if(Model != null)
+{
+    @foreach (var pet in Model)
+    {
+        <partial name="_PetDetailsPartial.cshtml" for="@pet" />
+    }
+}

@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Import Pets";
+}
+<h2>@ViewData["Title"]</h2>
+
+<h3 class="text-danger">@ViewBag.FileMessage</h3>
+
+<form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="Import">
+    <div class="form-group">
+        <div class="col-md-10">
+            <p>Upload a csv file:</p>
+            <input type="file" name="file" accept=".csv" required />
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-10">
+            <input type="submit" value="Import" />
+        </div>
+    </div>
+</form>

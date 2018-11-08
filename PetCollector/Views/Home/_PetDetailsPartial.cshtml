@@ -1,0 +1,20 @@
+﻿@model PetLibrary.Pet
+
+<div class="row">
+    <hr />
+    <div class="col-lg-2">
+        <h3>@Html.DisplayFor(model => model.Name)</h3>
+    </div>
+    <div class="col-lg-6">
+        <dl class="dl-horizontal">
+            <dt>@Html.DisplayNameFor(model => model.Type)</dt>
+            <dd>@Html.DisplayFor(model => model.Type.Name)</dd>
+
+            <dt>@Html.DisplayNameFor(model => model.Age)</dt>
+            <dd>@Html.DisplayFor(model => model.Age)</dd>
+
+            <dt>@Html.DisplayNameFor(model => model.Problem)</dt>
+            <dd>@Html.DisplayFor(model => model.Problem)</dd>
+        </dl>
+    </div>
+</div>
