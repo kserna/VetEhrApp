@@ -1,0 +1,17 @@
+C:\Users\EKGOLF\source\repos\VetEhrApp\PetLibrary\bin\Debug\netcoreapp2.1\PetLibrary.deps.json
+C:\Users\EKGOLF\source\repos\VetEhrApp\PetLibrary\bin\Debug\netcoreapp2.1\PetLibrary.dll
+C:\Users\EKGOLF\source\repos\VetEhrApp\PetLibrary\bin\Debug\netcoreapp2.1\PetLibrary.pdb
+C:\Users\EKGOLF\source\repos\VetEhrApp\PetLibrary\obj\Debug\netcoreapp2.1\PetLibrary.csproj.CoreCompileInputs.cache
+C:\Users\EKGOLF\source\repos\VetEhrApp\PetLibrary\obj\Debug\netcoreapp2.1\PetLibrary.AssemblyInfoInputs.cache
+C:\Users\EKGOLF\source\repos\VetEhrApp\PetLibrary\obj\Debug\netcoreapp2.1\PetLibrary.AssemblyInfo.cs
+C:\Users\EKGOLF\source\repos\VetEhrApp\PetLibrary\obj\Debug\netcoreapp2.1\PetLibrary.dll
+C:\Users\EKGOLF\source\repos\VetEhrApp\PetLibrary\obj\Debug\netcoreapp2.1\PetLibrary.pdb
+C:\Users\EKGOLF\source\repos\VetEhrApp\PetLibrary\obj\Debug\netcoreapp2.1\PetLibrary.csprojAssemblyReference.cache
+C:\Users\Kelly\Desktop\VetEhrApp\VetEhrApp\PetLibrary\bin\Debug\netcoreapp2.1\PetLibrary.deps.json
+C:\Users\Kelly\Desktop\VetEhrApp\VetEhrApp\PetLibrary\bin\Debug\netcoreapp2.1\PetLibrary.dll
+C:\Users\Kelly\Desktop\VetEhrApp\VetEhrApp\PetLibrary\bin\Debug\netcoreapp2.1\PetLibrary.pdb
+C:\Users\Kelly\Desktop\VetEhrApp\VetEhrApp\PetLibrary\obj\Debug\netcoreapp2.1\PetLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Desktop\VetEhrApp\VetEhrApp\PetLibrary\obj\Debug\netcoreapp2.1\PetLibrary.AssemblyInfoInputs.cache
+C:\Users\Kelly\Desktop\VetEhrApp\VetEhrApp\PetLibrary\obj\Debug\netcoreapp2.1\PetLibrary.AssemblyInfo.cs
+C:\Users\Kelly\Desktop\VetEhrApp\VetEhrApp\PetLibrary\obj\Debug\netcoreapp2.1\PetLibrary.dll
+C:\Users\Kelly\Desktop\VetEhrApp\VetEhrApp\PetLibrary\obj\Debug\netcoreapp2.1\PetLibrary.pdb
